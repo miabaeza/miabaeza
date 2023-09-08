@@ -1,5 +1,5 @@
 - Hi👋, I am @miabaeza :) !!!!!!! 
--  👀 I'm currently interested in learning how to code and woudld like to specialzie in ✨Backend Engineering✨.
+-  👀 I'm currently interested in learning how to code and would like to specialzie in ✨Backend Engineering and Backend Developing✨.
 -  I'm currently learning programming languages, specifically JavaScript! ...🌱
 
 
